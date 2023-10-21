@@ -4,17 +4,17 @@ os.system('clear')
 
 os.system("pip install requests")
 
-os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
 
 def Zeek():
     os.system('clear')
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     os.system('clear')
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     os.system('clear')
 
@@ -26,13 +26,11 @@ print("""
 \033[1;36m ██    ██      ██ ██   ██  ██  ██  ██ ██   ██
 \033[1;36m   ████   ███████ ██   ██  ██      ██ ██   ██                                                                                                                                      
 
-[1;31m   ██████  ███████  █████   ███    ███  █████
-          [1;32m  ██    ██ ██      ██   ██  ██ ████ ██ ██   ██
-         [1;33m  ██    ██ ███████ ███████  ██ ████ ██ ███████
-          [1;34m██    ██      ██ ██   ██  ██  ██  ██ ██   ██
-         [1;35m████   ███████ ██   ██  ██      ██ ██   ██ 
-
-
+[1;31m ██████  ███████  █████   ███    ███  █████
+[1;32m██    ██ ██      ██   ██  ██ ████ ██ ██   ██
+[1;33m██    ██ ███████ ███████  ██ ████ ██ ███████
+[1;34m██    ██      ██ ██   ██  ██  ██  ██ ██   ██
+[1;35m  ████   ███████ ██   ██  ██      ██ ██   ██ 
 
  \033[1;93m×××××××××××××××××\033[1;93m××××××××××××××\033[1;93m××××××××××××××××××
  \033[1;93m|     \033[1;96m[✓] CREATED BY\33[0;m   :  \033[1;96mOSᗩᗰᗩ-ZᗩᗰZᗩᗰ   \033[1;93m|
@@ -69,9 +67,9 @@ pil = input("  \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m CHOOSE: ")
 
 if pil in ["01", "1"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -83,9 +81,9 @@ if pil in ["01", "1"]:
 
 elif pil in ["02", "2"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -99,9 +97,9 @@ elif pil in ["02", "2"]:
 
 elif pil in ["03", "3"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     print(" ")
 
@@ -111,9 +109,9 @@ elif pil in ["03", "3"]:
 
 elif pil in ["04", "4"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -129,9 +127,9 @@ elif pil in ["04", "4"]:
 
 elif pil in ["5"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     print(" ")
 
@@ -142,9 +140,9 @@ elif pil in ["5"]:
 
 elif pil in ["6"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -158,9 +156,9 @@ elif pil in ["6"]:
 
 elif pil in ["7"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -174,9 +172,9 @@ elif pil in ["7"]:
 
 elif pil in ["8"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -190,7 +188,7 @@ elif pil in ["8"]:
 
 elif pil in ["9"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -198,9 +196,9 @@ elif pil in ["9"]:
 
 elif pil in ["10"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -216,9 +214,9 @@ elif pil in ["10"]:
 
 elif pil in ["11"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -230,17 +228,17 @@ elif pil in ["11"]:
 
 elif pil in ["12"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
 elif pil in ["13"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -254,9 +252,9 @@ elif pil in ["13"]:
 
 elif pil in ["14"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
@@ -264,28 +262,28 @@ elif pil in ["14"]:
 
 elif pil in ["15"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
 elif pil in ["16"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     time.sleep(2)
 
 elif pil in ["17"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
 
 
 elif pil in ["18"]:
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100024557781911")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
