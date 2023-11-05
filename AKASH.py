@@ -4,23 +4,23 @@ os.system('clear')
 
 os.system("pip install requests")
 
-os.system("xdg-open https://facebook.com/groups/551365756758487/")
+os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
 
 def Zeek():
     os.system('clear')
 
-    os.system("xdg-open https://www.facebook.com/copy.link.erorr404")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     os.system('clear')
 
-    os.system("xdg-open https://github.com/KgHasan")
+    os.system("xdg-open https://t.me/+TXax6QtrMb02Y2Rk")
 
     os.system('clear')
 
 
 print("""
- ██████  █  ██████  ███████  █████   ██      ██  █████
+\033[1;93   ██████  ███████  █████   ██      ██  █████
 \033[1;93  ██    ██ ██       ██   ██  ██ ████ ██ ██   ██
 \033[1;94  ██    ██ ███████ ███████  ██ ████ ██ ███████
 \033[1;95  ██    ██      ██ ██   ██  ██  ██  ██ ██   ██
